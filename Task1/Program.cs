@@ -1,6 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Змінити текст повідомлення на довільне у перших 3-х рядках");
-Console.WriteLine("Змінити текст повідомлення на довільне у перших 3-х рядках");
-Console.WriteLine("Змінити текст повідомлення на довільне у перших 3-х рядках");
-Console.WriteLine("Змінити текст повідомлення на довільне в останніх 2-х рядках програмного коду");
-Console.WriteLine("Змінити текст повідомлення на довільне в останніх 2-х рядках програмного коду");
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
+Console.ReadLine();
